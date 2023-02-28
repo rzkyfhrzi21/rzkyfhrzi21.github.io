@@ -1,0 +1,3 @@
+Version: 1.0.0
+- Membuat landing page menggunakan template Personal dari BootstrapMade
+https://bootstrapmade.com/demo/Personal/
